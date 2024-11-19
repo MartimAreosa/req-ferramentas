@@ -64,6 +64,7 @@
             this.btnGerirRequisições.TabIndex = 2;
             this.btnGerirRequisições.Text = "Gerir Requisições";
             this.btnGerirRequisições.UseVisualStyleBackColor = true;
+            this.btnGerirRequisições.Click += new System.EventHandler(this.btnGerirRequisições_Click);
             // 
             // btnGerirFerramentas
             // 
@@ -80,12 +81,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnGerirFerramentas);
             this.Controls.Add(this.btnGerirRequisições);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnGerirColaboradores);
+            this.MaximizeBox = false;
             this.Name = "frmMenu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
             this.ResumeLayout(false);
             this.PerformLayout();
