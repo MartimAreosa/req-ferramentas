@@ -43,6 +43,7 @@
             this.btnGerirColaboradores.TabIndex = 0;
             this.btnGerirColaboradores.Text = "Gerir Colaboradores";
             this.btnGerirColaboradores.UseVisualStyleBackColor = true;
+            this.btnGerirColaboradores.Click += new System.EventHandler(this.btnGerirColaboradores_Click);
             // 
             // label1
             // 
@@ -73,6 +74,7 @@
             this.btnGerirFerramentas.TabIndex = 3;
             this.btnGerirFerramentas.Text = "Gerir Ferramentas";
             this.btnGerirFerramentas.UseVisualStyleBackColor = true;
+            this.btnGerirFerramentas.Click += new System.EventHandler(this.btnGerirFerramentas_Click);
             // 
             // frmMenu
             // 

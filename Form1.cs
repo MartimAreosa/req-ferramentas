@@ -16,5 +16,17 @@ namespace ReqFerramentas
         {
             InitializeComponent();
         }
+
+        private void btnGerirColaboradores_Click(object sender, EventArgs e)
+        {
+            frmColaboradores frm = new frmColaboradores();
+            frm.ShowDialog();
+        }
+
+        private void btnGerirFerramentas_Click(object sender, EventArgs e)
+        {
+            frmFerramentas frm = new frmFerramentas();
+            frm.ShowDialog();
+        }
     }
 }

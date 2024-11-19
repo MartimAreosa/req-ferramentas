@@ -8,3 +8,5 @@ C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqF
 C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.csproj.CoreCompileInputs.cache
 C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.exe
 C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.pdb
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.frmColaboradores.resources
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.frmFerramentas.resources

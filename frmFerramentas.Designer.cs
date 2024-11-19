@@ -1,6 +1,6 @@
 ﻿namespace ReqFerramentas
 {
-    partial class frmColaboradores
+    partial class frmFerramentas
     {
         /// <summary>
         /// Required designer variable.
@@ -35,20 +35,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(284, 102);
+            this.label1.Location = new System.Drawing.Point(278, 97);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(205, 31);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Colaboradores";
+            this.label1.Size = new System.Drawing.Size(179, 31);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Ferramentas";
             // 
-            // frmColaboradores
+            // frmFerramentas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
-            this.Name = "frmColaboradores";
-            this.Text = "frmColaboradores";
+            this.Name = "frmFerramentas";
+            this.Text = "frmFerramentas";
             this.ResumeLayout(false);
             this.PerformLayout();
 
