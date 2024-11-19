@@ -1,0 +1,10 @@
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\bin\Debug\ReqFerramentas.exe.config
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\bin\Debug\ReqFerramentas.exe
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\bin\Debug\ReqFerramentas.pdb
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.csproj.AssemblyReference.cache
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.frmMenu.resources
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.Properties.Resources.resources
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.csproj.GenerateResource.cache
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.csproj.CoreCompileInputs.cache
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.exe
+C:\Users\Martim Areosa\source\repos\ReqFerramentas\ReqFerramentas\obj\Debug\ReqFerramentas.pdb
